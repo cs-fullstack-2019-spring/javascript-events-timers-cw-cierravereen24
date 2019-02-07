@@ -1,3 +1,7 @@
+
+### POINTS: 1.5
+### KEY: Mostly correct except countdown incomplete. Good comments in javascript.
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
